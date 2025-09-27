@@ -10,4 +10,10 @@ This program generate passwords based on:
 - showing password suggestions
 - password strength checker (weak, medium, strong)
 
-This is my first repo in GitHub and sharping my skills back in Python with this personalized password maker. I got this inspirational from my surrounding especially the elders that always bragging about the hardness characteristics of password needed to create an account either for website login or social media. Plus, they always forgot about the password and need to keep to change their password. The strength checker awares them of the need of the strong password to avoid being hack or easily penetrate by unresponsible people. It will educates them about the importance of the cyber security.
+  
+# Acknowledgment
+This is my first repo in GitHub and sharping my skills back in Python with this personalized password maker.
+
+This project was inspired by the people around me, especially the elders, who often struggle with creating and remembering secure passwords for websites or social media accounts. Many of them find password requirements frustrating and frequently forget their credentials, leading to constant resets.
+
+By combining a personalized password generator with a strength checker, this project aims to raise awareness of the importance of strong passwords in preventing hacking or unauthorized access. It also serves as a small step to educate users about basic cybersecurity practices in their daily lives.
